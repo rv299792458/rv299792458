@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rahul Verma</h1>
 <h3 align="center">A passionate Competitive Coder from India</h3>
 
-- 🔭 I’m currently working on **Technical Product Analyst at Juspay**
-- 🔭 I’m currently working on **Problem Setter at Prepbytes**
+- 🔭 I’m currently working as **Technical Product Analyst at Juspay**
+- 🔭 I’m currently working as **Problem Setter at Prepbytes**
 
 - 🌱 I’m currently learning **Data Science , Haskell,Purescript**
 
