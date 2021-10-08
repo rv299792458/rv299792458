@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Competitive Coder from India</h3>
 
 - 🔭 I’m currently working as **Technical Product Analyst at Juspay**
-- 🔭 I’m currently working as **Problem Setter at Prepbytes**
+- 🔭 I worked as **Problem Setter at Prepbytes**
 
 - 🌱 I’m currently learning **Data Science , Haskell,Purescript**
 
